@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
@@ -40,3 +41,7 @@ Then, copy the deployment address and paste it in to replace `DEPLOYED_CONTRACT_
 ```shell
 npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 ```
+=======
+# ERC20-TOKEN-DAPP
+DAPP development of erc20 tokens,  An ERC20 token contract keeps track of fungible tokens: any one token is exactly equal to any other token.
+>>>>>>> 92bcc507f4bdf55c3c8e3ee3ea2cfb010714764b
